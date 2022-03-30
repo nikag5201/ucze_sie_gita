@@ -1,1 +1,2 @@
-oo
+print("ooo")
+print()
